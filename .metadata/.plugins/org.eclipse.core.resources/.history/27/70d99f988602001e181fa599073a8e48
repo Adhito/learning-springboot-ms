@@ -1,0 +1,5 @@
+package com.learningspringbootms.limitsservice.bean;
+
+public class Limits {
+
+}

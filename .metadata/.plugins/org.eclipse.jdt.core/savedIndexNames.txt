@@ -1,0 +1,2 @@
+INDEX VERSION 1.132+C:\Git_Repository_Personal\Repo_Github\Github_Adhito909\learning-springboot-ms-main\.metadata\.plugins\org.eclipse.jdt.core
+1865797976.index
