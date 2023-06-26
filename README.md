@@ -40,5 +40,11 @@ docker run
 |Properties Files | [application.properties](https://github.com/Adhito/learning-springboot-ms-limits-service/blob/main/src/main/resources/application.properties) |
 |Pom XML | [pom.xml](https://github.com/Adhito/learning-springboot-ms-limits-service/blob/main/pom.xml) |
 
+## Configuration profiles
+|Spring Boot Configuration | Property files  |
+|--------------------------|---|
+| Profile 01 | [DEV](https://github.com/Adhito/learning-springboot-ms-config) |
+| Profile 02 | [QA](https://github.com/Adhito/learning-springboot-ms-config) |
+
 
 
