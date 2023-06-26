@@ -22,3 +22,23 @@ Or you can run it from Maven directly using the Spring Boot Maven plugin. If you
 
 > NOTE: If you prefer to use Gradle, you can build the app using `./gradlew build` and look for the jar file in `build/libs`.
 
+
+## Running ms-limits-service on container
+
+_Description are work still in progress_
+
+```
+docker run
+```
+
+
+## Configuration files
+
+|Spring Boot Configuration | Class or Java property files  |
+|--------------------------|---|
+|The Main Class | [LimitsServiceApplication.java](https://github.com/Adhito/learning-springboot-ms-limits-service/blob/main/src/main/java/com/learningspringbootms/limitsservice/LimitsServiceApplication.java) |
+|Properties Files | [application.properties](https://github.com/Adhito/learning-springboot-ms-limits-service/blob/main/src/main/resources/application.properties) |
+|Pom XML | [pom.xml](https://github.com/Adhito/learning-springboot-ms-limits-service/blob/main/pom.xml) |
+
+
+
